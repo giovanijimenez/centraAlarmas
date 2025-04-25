@@ -12,6 +12,9 @@ body{
     text-align: center;
 }
 
+.mg-b{
+    margin-bottom: 105px;
+}
 .botonesContacto{
     background-color: #182655 !important;
     color: white;
@@ -73,5 +76,12 @@ margin-top: 18px;
 @media (max-width: 576px) { 
     .botonesWhatsApp{
         width: 220px !important;
+    }
+    body{
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .mg-b{
+        margin-bottom: auto;
     }
 }
