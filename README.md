@@ -1,0 +1,2 @@
+# centraAlarmas
+central de alarmas
