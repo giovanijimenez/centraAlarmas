@@ -1,2 +1,2 @@
 # centraAlarmas
-central de alarmas
+central de alarmas / Giovani Jimenez
